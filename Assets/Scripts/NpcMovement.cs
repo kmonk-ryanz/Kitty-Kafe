@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class NpcMovement : MonoBehaviour
@@ -19,10 +20,11 @@ public class NpcMovement : MonoBehaviour
     
     void Update()
     {
-        transform.Translate(new Vector3(moveSpeed, 0, 0) * Time.deltaTime); // Move NPC horizontally
-        if (Input.GetKeyDown(KeyCode.Space))
+        transform.Translate(new Vector3(moveSpeed, 0, 0) * Time.deltaTime); 
+        
+        if (Input.GetMouseButtonDown(0))
         {
-            int randIndex = Random.Range(0, dialogues.Length); // Choose a random dialogue
+            int randIndex = Random.Range(0, dialogues.Length); 
             string dialogue = dialogues[randIndex];
             Debug.Log(dialogue);
         }
