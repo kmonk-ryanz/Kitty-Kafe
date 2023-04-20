@@ -8,6 +8,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bottle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BottleMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogueTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FoodDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,7 +90,7 @@
       <workItem from="1681424338901" duration="3594000" />
       <workItem from="1681872187127" duration="4323000" />
       <workItem from="1681965268483" duration="1282000" />
-      <workItem from="1681994408128" duration="594000" />
+      <workItem from="1681994408128" duration="2010000" />
     </task>
     <servers />
   </component>
