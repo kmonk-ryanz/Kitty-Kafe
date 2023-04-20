@@ -1,19 +1,34 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
-public class SceneTimer : MonoBehaviour
+public class Scenetimer : MonoBehaviour
 {
-    private float startTime;
+    public float totalTime = 30f;
+    private float currentTime;
+    
+    public string GameOver;
 
     void Start()
     {
-        startTime = Time.time;
+        currentTime = totalTime;
     }
 
     void Update()
     {
-        float elapsedTime = Time.time - startTime;
-        Debug.Log("Elapsed Time: " + elapsedTime);
+        currentTime -= Time.deltaTime;
+
+        if (currentTime <= 0)
+        {
+            currentTime = 0;
+            EndTimer();
+        }
+        
+    }
+
+    void EndTimer()
+    {
+        SceneManager.LoadScene(GameOver); // Load the next scene.
     }
 }
+
