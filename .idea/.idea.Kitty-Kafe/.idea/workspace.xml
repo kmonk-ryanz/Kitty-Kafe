@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31882bfc-bcb8-454d-bd42-4388a2191dfa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kitty-Kafe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kitty-Kafe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Kitty Kafe.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Kitty Kafe.unity" afterDir="false" />
-    </list>
+    <list default="true" id="31882bfc-bcb8-454d-bd42-4388a2191dfa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +12,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FoodDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scenetimer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwtichScenes.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,9 +32,9 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\Stephanie.Meyer\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Stephanie.Meyer\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\Stephanie.Meyer\\AppData\\Local\\Symbols\\src"
+      "C:\\Users\\Cassandra.Carpenter\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Cassandra.Carpenter\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\Cassandra.Carpenter\\AppData\\Local\\Symbols\\src"
     ]
   }
 }]]></component>
@@ -92,6 +88,7 @@
       <workItem from="1681424338901" duration="3594000" />
       <workItem from="1681872187127" duration="4323000" />
       <workItem from="1681965268483" duration="1282000" />
+      <workItem from="1681994408128" duration="594000" />
     </task>
     <servers />
   </component>
