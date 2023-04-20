@@ -17,9 +17,9 @@ public class Movement : MonoBehaviour
     private void MoveNPC()
     {
         transform.Translate(new Vector3(moveSpeed, 3, 0) * Time.deltaTime);
-        // Vector3 newPosition = transform.position;
-        // newPosition.x += moveSpeed * Time.deltaTime;
-        // transform.position = newPosition;
+        Vector3 newPosition = transform.position;
+        newPosition.x += moveSpeed * Time.deltaTime;
+        transform.position = newPosition;
     }
 }
 
