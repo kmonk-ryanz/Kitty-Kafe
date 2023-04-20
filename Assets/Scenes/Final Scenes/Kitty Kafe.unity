@@ -729,7 +729,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 129347252}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.48, y: -2.23, z: -4}
+  m_LocalPosition: {x: -7.27, y: -1.31, z: -4}
   m_LocalScale: {x: 0.18860666, y: 0.21271059, z: 0.18860666}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1889,7 +1889,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 310411137}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.67, y: -2.81, z: -4}
+  m_LocalPosition: {x: -5.81, y: -1.82, z: -4}
   m_LocalScale: {x: 0.1912982, y: 0.20742464, z: 0.1912982}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4408,7 +4408,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 727768138}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.28, y: -3.8100002, z: -5}
+  m_LocalPosition: {x: 2.69, y: -2.46, z: -5}
   m_LocalScale: {x: 0.16303524, y: 0.16303524, z: 0.16303524}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6510,7 +6510,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 3abdb3bd61baa4c4eabc5c0e77f76cd7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9c88c9cae16a16041afdd22497276cd9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -6529,8 +6529,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1052815974}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.37, y: -1.9695928, z: -3}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 6.34, y: -2.48, z: -3}
+  m_LocalScale: {x: 0.13608477, y: 0.13608477, z: 0.13608477}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -6553,7 +6553,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.32, y: 1.32}
+    oldSize: {x: 21.12, y: 21.12}
     newSize: {x: 1.32, y: 1.32}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
